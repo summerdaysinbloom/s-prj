@@ -1,10 +1,10 @@
 {
-  "short_name": "",
+  "short_name": "ylab",
   "name": "",
   "icons": [{
-    "src": "icon.png",
+    "src": "favicon/favicon-96x96.png",
     "type": "image/png",
-    "sizes": "192x192"
+    "sizes": "96x96"
   }],
   "start_url": "/?utm_source=homescreen",
   "background_color": "#fafafa",
