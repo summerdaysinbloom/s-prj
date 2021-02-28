@@ -1,8 +1,8 @@
 {
   "short_name": "ylab",
-  "name": "",
+  "name": "ylab_name",
   "icons": [{
-    "src": "favicon/favicon-96x96.png",
+    "src": "/favicon/favicon-96x96.png",
     "type": "image/png",
     "sizes": "96x96"
   }],
